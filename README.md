@@ -38,7 +38,7 @@ You'll need access to the following:
 
 *Note: I configured all of this in the us-east-1 region. I am not 100% confident this will work exactly the same in other regions.* 
 
-### Create an S3 Buvket for your API Private Key
+### Create an S3 Bucket for your API Private Key
 
 The Xero API is authenticated using RSA-SHA1 signatures. This is signed using a privatekey file that is required to be generated when you upgrade your app from Public to Partner.
 
