@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.104.0",
+    "claudia-api-builder": "^2.5.1",
+    "claudiajs-dynamodb": "^0.9.7",
+    "qs": "^6.5.0",
+    "superb": "^1.3.0",
+    "xero-node": "^2.5.3"
+  }
+}
